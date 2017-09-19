@@ -2,4 +2,4 @@ this is the first line
 this is the second line
 this is the third line
 this is the forth line
-smart add one line
+smart1 add one line
